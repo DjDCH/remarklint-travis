@@ -1,3 +1,5 @@
 * Hello
 
-[World][]
+[World][google]
+
+[google]: https://www.google.com/
